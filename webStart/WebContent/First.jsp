@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>규환아 정말  </h1>
+<h1>Thank you  </h1>
 </body>
 </html>
